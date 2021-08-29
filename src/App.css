@@ -1,0 +1,13 @@
+.item {
+  width: 100px;
+  background-color: blueviolet;
+  position: relative;
+  text-align: center;
+  padding: 8px;
+}
+
+.task {
+  position: relative;
+  float: left;
+  padding-left: 20px;
+}
